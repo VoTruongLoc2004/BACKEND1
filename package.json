@@ -14,7 +14,7 @@
   "author": "Vo Truong Loc",
   "type": "commonjs",
   "main": "index.js",
-  "scripts": {
+  "script": {
     "start": "nodemon server.js"
   },
   "dependencies": {
